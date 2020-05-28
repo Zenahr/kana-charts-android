@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kana-Charts</string>
+    <string name="tab_text_1">Hiragana</string>
+    <string name="tab_text_2">Katakana</string>
+</resources>
